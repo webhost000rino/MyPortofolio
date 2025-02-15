@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: Rino Ongkowijoyo
+URL: https://webhost000rino.github.io/MyPortofolio/
+Author: Rino 
+License: 127.0.0.1.5501
+===================================================
